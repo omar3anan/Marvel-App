@@ -1,3 +1,5 @@
+<h2>Screenshot page 2</h2>
+<img src="Screenshots/2.png" width=300 height=550>
 <h2>Screenshot page 3</h2>
 <img src="Screenshots/3.png" width=300 height=550>
 <h2>Screenshot page 4</h2>
@@ -16,3 +18,5 @@
 <img src="Screenshots/10.png" width=300 height=550>
 <h2>Screenshot page 11</h2>
 <img src="Screenshots/11.png" width=300 height=550>
+<h2>Screenshot page 12</h2>
+<img src="Screenshots/12.png" width=300 height=550>
