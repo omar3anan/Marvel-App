@@ -2,5 +2,9 @@
 <img src="Screenshots/4.png" width=300 height=550>
 <h2>Screenshot page 5</h2>
 <img src="Screenshots/5.png" width=300 height=550>
+<h2>Screenshot page 6</h2>
+<img src="Screenshots/6.png" width=300 height=550>
+<h2>Screenshot page 10</h2>
+<img src="Screenshots/10.png" width=300 height=550>
 <h2>Screenshot page 11</h2>
 <img src="Screenshots/11.png" width=300 height=550>
